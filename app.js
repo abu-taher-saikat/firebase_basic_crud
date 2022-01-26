@@ -1,14 +1,6 @@
 const cafeList = document.querySelector('#cafe-list');
 const form = document.querySelector('#add-cafe-form');
 
-**********************
-// use this google meet now.
-https://meet.google.com/oxw-vjut-yhq
-// or know me on whats-app
-+8801790092627
-// or you can email me.
-mdabutahersaikat@gmail.com
-**********************
 
 // create element and render cafe
 function renderCafe(doc){
